@@ -1,0 +1,24 @@
+{
+  "name": "ngui-notices",
+  "version": "0.0.1",
+  "authors": [
+    "Boris Okunskiy <boris@okunskiy.name>"
+  ],
+  "description": "Disposable client-side messages",
+  "main": "ngui.notices.js",
+  "keywords": [
+    "angular",
+    "ui",
+    "notices"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    ".idea",
+    "*.iml",
+    "test",
+    "tests"
+  ]
+}
