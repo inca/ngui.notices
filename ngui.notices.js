@@ -39,6 +39,10 @@
           return this.add(text, 'info', timeout);
         },
 
+        addSuccess: function(text, timeout) {
+          return this.add(text, 'success', timeout);
+        },
+
         addWarn: function(text, timeout) {
           return this.add(text, 'warn', timeout);
         },
